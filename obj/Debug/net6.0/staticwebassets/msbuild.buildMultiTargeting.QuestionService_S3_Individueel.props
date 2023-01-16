@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QuestionService_S3_Individueel.props" />
+</Project>

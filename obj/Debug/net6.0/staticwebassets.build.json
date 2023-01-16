@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lclDmUHXpt90lPClysRfhGm1oc4tsqApbaOYXScDspU=",
+  "Source": "QuestionService_S3_Individueel",
+  "BasePath": "_content/QuestionService_S3_Individueel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

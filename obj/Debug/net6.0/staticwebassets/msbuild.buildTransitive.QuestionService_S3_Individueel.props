@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\QuestionService_S3_Individueel.props" />
+</Project>
